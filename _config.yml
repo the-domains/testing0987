@@ -1,7 +1,7 @@
 name: Testing0987
 favicon: null
-layout_spectrum: 0.39768062182702124
-typography_spectrum: 0.21694683656096458
+layout_spectrum: 1
+typography_spectrum: 0.38552
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.4331077814567834
+  brandStrength: 0.8125
   lightness: 0.9512892744969577
-  saturation: 0.6738682831637561
+  saturation: 0.3125
   rhythmicContrast: 0.9330384214408696
 purpose: []
