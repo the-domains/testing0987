@@ -1,0 +1,28 @@
+name: Testing0987
+favicon: null
+layout_spectrum: 0.39768062182702124
+typography_spectrum: 0.21694683656096458
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4331077814567834
+  lightness: 0.9512892744969577
+  saturation: 0.6738682831637561
+  rhythmicContrast: 0.9330384214408696
+purpose: []
